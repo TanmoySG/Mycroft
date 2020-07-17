@@ -2,7 +2,7 @@
  
 Mycroft is an one stop Encrytion service for your data. It uses [RSA ALgorithm](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) for Encryption & Decryption.
 
-![reactapp.jpg](https://github.com/TanmoySG/Mycroft/blob/master/screenshots/Fancy%20SC/smartmockups_kcp5v6yf.jpg)
+![reactapp.jpg](https://github.com/TanmoySG/Mycroft/blob/master/screenshots/React_App.jpg)
 
 [Learn how RSA works and its Python Implementation here.](https://github.com/TanmoySG/Cryptography-Algorithm/tree/master/RSA-Algorithm) 
 
