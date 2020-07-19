@@ -1,6 +1,6 @@
 # Mycroft 
 
-### Deployed at [http://mycroft.tanmoysg.com/](http://mycroft.tanmoysg.com/)
+### Deployed at [mycroft.tanmoysg.com/](http://mycroft.tanmoysg.com/)
 
 Mycroft is an one stop Encrytion service for your data. It uses [RSA ALgorithm](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) for Encryption & Decryption.
 
