@@ -12,6 +12,6 @@ No data is stored, locally or online making it even more secure. You can generat
 
 This project is built with React and Flask. It uses [Google Material Design](https://material.io/) based UI React framework, [Material-UI](https://material-ui.com/) for its design.
 
-![reactapp.gif](https://github.com/TanmoySG/Mycroft/blob/master/screenshots/smartmockups_kf7ykcpi.gif)
+![reactapp.gif](https://github.com/TanmoySG/Mycroft/blob/master/screenshots/Fancy%20SC/smartmockups_kf7ykcpi.gif)
 
 Mycroft currently supports Encryption using RSA. More encryption algorithms and services to be added soon.
